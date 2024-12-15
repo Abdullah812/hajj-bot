@@ -1183,7 +1183,7 @@ bot.onText(/\/contact/, (msg) => {
   bot.sendMessage(chatId, `
 للتواصل معنا:
 - البريد الإلكتروني: https://manasek.sa/ar
-- رقم الهاتف: +966 800 245 0088
+-  رقم الهاتف:+9668002450088
 - تويتر:https://x.com/ManasekIPMC
   `);
 });
