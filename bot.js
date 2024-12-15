@@ -1182,7 +1182,7 @@ bot.onText(/\/contact/, (msg) => {
   const chatId = msg.chat.id;
   bot.sendMessage(chatId, `
 للتواصل معنا:
-- البريد الإلكتروني: shttps://manasek.sa/ar
+- البريد الإلكتروني: https://manasek.sa/ar
 - رقم الهاتف: +966 800 245 0088
 - تويتر:https://x.com/ManasekIPMC
   `);
